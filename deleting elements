@@ -1,0 +1,4 @@
+city=["Chennai","Mumbai","Delhi","Banglore","Hyderabad"]
+print(city)
+del city[1]
+print(city)
