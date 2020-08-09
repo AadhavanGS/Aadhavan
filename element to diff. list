@@ -1,0 +1,3 @@
+print("Any 5 important cities across India")
+city=["Chennai","Mumbai","Delhi","Banglore","Hyderabad"]
+print(city)
