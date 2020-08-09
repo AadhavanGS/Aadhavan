@@ -1,0 +1,4 @@
+print("To print the 2nd index number element")
+tuple=("Chennai","Mumbai","Delhi","Banglore","Hyderabad")
+print("The second index number element is")
+print(tuple[2])
